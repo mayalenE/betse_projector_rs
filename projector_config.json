@@ -1,0 +1,17 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Random Exploration",
+      "tensorShape": [2000, 8],
+      "tensorPath": "https://raw.githubusercontent.com/mayalenE/betse_projector_rs/main/default/tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/mayalenE/betse_projector_rs/main/default/metadata.tsv",
+      "sprite": {
+        "imagePath": "https://raw.githubusercontent.com/mayalenE/betse_projector_rs/main/default/sprite.png",
+        "singleImageDim": [
+          182,
+          182
+        ]
+      }
+    }
+  ]
+}
